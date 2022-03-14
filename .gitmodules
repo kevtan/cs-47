@@ -1,0 +1,3 @@
+[submodule "cs47-a2-starter"]
+	path = cs47-a2-starter
+	url = https://github.com/ruslanjabari/cs47-a2-starter.git
